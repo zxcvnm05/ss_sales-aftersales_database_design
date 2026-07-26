@@ -8,12 +8,6 @@ This project delivers a relational database architecture on Supabase (PostgreSQL
 - **Data Modeling:** ER Diagramming (13 Relational Tables)
 - **SQL Techniques:** Common Table Expressions (CTEs), Multi-table JOINs, Window Functions, Aggregations
 
-## 📂 Project Structure
-├── database/           # DDL scripts (table creation, foreign keys, constraints)
-├── queries/            # Advanced SQL analytical scripts (CTEs, KPIs, backlog aging)
-├── schema/             # ERD diagrams and relational schema documentation
-└── README.md           # Project documentation
-
 ## 🚀 Key Results & Findings
 - **Backlog Tracking:** Identified unresolved service requests exceeding **440 days** for specific product lines.
 - **Quality Insights:** Correlated repair cost data ($6,770 per execution) with low customer sentiment scores to isolate defective product batches (e.g., Bluetooth speakers).
